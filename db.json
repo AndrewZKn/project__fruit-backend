@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "kadhsdah",
+      "phone": "0837413392",
+      "gmail": "user1@gmail.com",
+      "position": "manager",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "kdaadhsdah",
+      "phone": "0847413392",
+      "gmail": "user2@gmail.com",
+      "position": "manager",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "kadhsdkdskkah",
+      "phone": "0837413342",
+      "gmail": "user3@gmail.com",
+      "position": "manager",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "kadhsdah",
+      "phone": "0837413692",
+      "gmail": "user4@gmail.com",
+      "position": "senior",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "kadhkskssdah",
+      "phone": "0837418392",
+      "gmail": "user5@gmail.com",
+      "position": "manager",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "kadhsdah",
+      "phone": "0839413392",
+      "gmail": "user6@gmail.com",
+      "position": "manager",
+      "avartar": "https://ik.imagekit.io/alejk5lwty/Gallery__image/image1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1677381413443"
+
+    }
+  ]
+ 
+}
